@@ -1,6 +1,7 @@
 
 # AtliQ Sales Insights PowerBi Dashboard
 This is a project I made with the help of Codebasics PowerBi Youtube playlist. 
+
 Live Report [Link](https://app.powerbi.com/view?r=eyJrIjoiNDliM2YyNmYtMjliZS00OTc3LWIzMGQtOGVmMmQzM2Q3YmY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 # Problem statement
